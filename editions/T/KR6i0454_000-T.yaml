@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0454/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說諸行有為經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0758.xml
+    old_id: T17n0758
+hash: sha256:db3ea7873bb758166f02ceb10bbe971661d86b500454f16c7605958f73809d3c
